@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hey there ♠️
+
+I'm Ethan, a video game development student at DSV Stockholm University.
+
+I love a good programming challenge!
+
+If I don't know how to execute an idea, it only motivates me further to find the solution.
+
+My main tech stack includes Unreal Engine, Unity, Visual Studio, and VS Code, where my primary languages are C# and C/C++.
 
 <!--
 **EthanSamsioeSarras/EthanSamsioeSarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
